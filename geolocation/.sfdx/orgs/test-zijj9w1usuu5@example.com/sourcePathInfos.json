@@ -35,7 +35,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default",
             "isDirectory": true,
             "size": 448,
-            "modifiedTime": 1577974757642,
+            "modifiedTime": 1577980636208,
             "changeTime": 1577974757642,
             "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
             "isMetadataFile": false,
@@ -62,15 +62,15 @@
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1577982567811,
+            "changeTime": 1577982567811,
+            "contentHash": "9219307fd8fa066479d9b264b45d3c5c5ed60b03",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1577980230970,
-            "changeTime": 1577980230970,
-            "isWorkspace": false,
-            "contentHash": "832d559f1a94013b0352c6a465f75f2cfc8d1b8b"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -79,7 +79,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/classes",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1577979585714,
+            "modifiedTime": 1577980636208,
             "changeTime": 1577979585714,
             "contentHash": "da96db5fc418edc242454d3c266786b628188ceb",
             "isMetadataFile": false,
@@ -94,7 +94,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/classes/AccountSearchController.cls",
             "isDirectory": false,
             "size": 685,
-            "modifiedTime": 1577979633146,
+            "modifiedTime": 1577980636208,
             "changeTime": 1577979633146,
             "contentHash": "ca2a5a7f1d7a23bb78d288586fd8adc2e0a30422",
             "isMetadataFile": false,
@@ -109,7 +109,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/classes/AccountSearchController.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
-            "modifiedTime": 1577979585714,
+            "modifiedTime": 1577980636208,
             "changeTime": 1577979585714,
             "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
             "isMetadataFile": true,
@@ -136,16 +136,14 @@
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1577974757585,
-            "changeTime": 1577974757585,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 96,
+            "modifiedTime": 1577982912839,
+            "changeTime": 1577982912839,
+            "contentHash": "8db0c01f640acc7ba1b555b8d1a44b12fe1de7dd"
         }
     ],
     [
@@ -169,7 +167,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/lwc",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1577974766734,
+            "modifiedTime": 1577980636341,
             "changeTime": 1577974766734,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
             "isMetadataFile": false,
@@ -196,16 +194,14 @@
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/permissionsets",
         {
+            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1577974757585,
-            "changeTime": 1577974757585,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 96,
+            "modifiedTime": 1577982912842,
+            "changeTime": 1577982912842,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
         }
     ],
     [
@@ -226,16 +222,14 @@
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1577974757585,
-            "changeTime": 1577974757585,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 96,
+            "modifiedTime": 1577982912840,
+            "changeTime": 1577982912840,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
@@ -259,7 +253,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation",
             "isDirectory": true,
             "size": 448,
-            "modifiedTime": 1577978983845,
+            "modifiedTime": 1577980636391,
             "changeTime": 1577978983845,
             "contentHash": "dd2cb1c36a6b00bf56fe29fe9f3ba154617270dc",
             "isMetadataFile": false,
@@ -274,7 +268,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1577979818488,
+            "modifiedTime": 1577980636206,
             "changeTime": 1577979818488,
             "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
             "isMetadataFile": false,
@@ -287,7 +281,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
             "size": 62,
-            "modifiedTime": 1577979818488,
+            "modifiedTime": 1577980636206,
             "changeTime": 1577979818488,
             "contentHash": "73dd2d6095dcb17e014251e571de76a521b53c49",
             "isMetadataFile": false,
@@ -300,7 +294,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
             "size": 223,
-            "modifiedTime": 1577979818488,
+            "modifiedTime": 1577980636207,
             "changeTime": 1577979818488,
             "contentHash": "b22bb8b080b0ed1f38c022b55ab5c2f9778087ef",
             "isMetadataFile": true,
@@ -313,7 +307,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1577979950394,
+            "modifiedTime": 1577980636205,
             "changeTime": 1577979950394,
             "contentHash": "6227727dd56c9132b79b4e908af55410217dd161",
             "isMetadataFile": false,
@@ -326,7 +320,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.auradoc",
             "isDirectory": false,
             "size": 209,
-            "modifiedTime": 1577979950390,
+            "modifiedTime": 1577980636201,
             "changeTime": 1577979950390,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
@@ -339,7 +333,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.cmp",
             "isDirectory": false,
             "size": 37,
-            "modifiedTime": 1577979950392,
+            "modifiedTime": 1577980636201,
             "changeTime": 1577979950392,
             "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
             "isMetadataFile": false,
@@ -352,7 +346,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.cmp-meta.xml",
             "isDirectory": false,
             "size": 228,
-            "modifiedTime": 1577979950390,
+            "modifiedTime": 1577980636202,
             "changeTime": 1577979950390,
             "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
             "isMetadataFile": true,
@@ -365,7 +359,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.css",
             "isDirectory": false,
             "size": 10,
-            "modifiedTime": 1577979950392,
+            "modifiedTime": 1577980636203,
             "changeTime": 1577979950392,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
@@ -378,7 +372,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.design",
             "isDirectory": false,
             "size": 40,
-            "modifiedTime": 1577979950392,
+            "modifiedTime": 1577980636203,
             "changeTime": 1577979950392,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
@@ -391,7 +385,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.svg",
             "isDirectory": false,
             "size": 664,
-            "modifiedTime": 1577979950393,
+            "modifiedTime": 1577980636204,
             "changeTime": 1577979950393,
             "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
             "isMetadataFile": false,
@@ -404,7 +398,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearchController.js",
             "isDirectory": false,
             "size": 466,
-            "modifiedTime": 1577980090452,
+            "modifiedTime": 1577980636204,
             "changeTime": 1577980090452,
             "contentHash": "fd3d1d68ee8e0300f5d4f24bedc2dc9ed675d831",
             "isMetadataFile": false,
@@ -417,7 +411,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearchHelper.js",
             "isDirectory": false,
             "size": 45,
-            "modifiedTime": 1577979950393,
+            "modifiedTime": 1577980636205,
             "changeTime": 1577979950393,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
@@ -430,7 +424,7 @@
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountSearch/AccountSearchRenderer.js",
             "isDirectory": false,
             "size": 50,
-            "modifiedTime": 1577979950394,
+            "modifiedTime": 1577980636205,
             "changeTime": 1577979950394,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
@@ -440,131 +434,430 @@
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
-            "modifiedTime": 1577980230975,
+            "modifiedTime": 1577980636200,
             "changeTime": 1577980230975,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
-            "modifiedTime": 1577980230971,
+            "modifiedTime": 1577980636196,
             "changeTime": 1577980230971,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 37,
-            "modifiedTime": 1577980230972,
+            "modifiedTime": 1577980636197,
             "changeTime": 1577980230972,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
-            "modifiedTime": 1577980230970,
+            "modifiedTime": 1577980636197,
             "changeTime": 1577980230970,
-            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c"
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
-            "modifiedTime": 1577980230972,
+            "modifiedTime": 1577980636198,
             "changeTime": 1577980230972,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
-            "modifiedTime": 1577980230973,
+            "modifiedTime": 1577980636198,
             "changeTime": 1577980230973,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 664,
-            "modifiedTime": 1577980230973,
+            "modifiedTime": 1577980636199,
             "changeTime": 1577980230973,
-            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739"
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1381,
-            "modifiedTime": 1577980426884,
+            "modifiedTime": 1577980636200,
             "changeTime": 1577980426884,
-            "contentHash": "0fc580a0adbfae3de1e219055c592acf2f4a0cef"
+            "contentHash": "0fc580a0adbfae3de1e219055c592acf2f4a0cef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
-            "modifiedTime": 1577980230974,
+            "modifiedTime": 1577980636200,
             "changeTime": 1577980230974,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
-            "modifiedTime": 1577980230975,
+            "modifiedTime": 1577980636200,
             "changeTime": 1577980230975,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1577982567810,
+            "changeTime": 1577982567810,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1577982567815,
+            "changeTime": 1577982567815,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1577982567804,
+            "changeTime": 1577982567804,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 634,
+            "modifiedTime": 1577982567805,
+            "changeTime": 1577982567805,
+            "contentHash": "16b29b7e42eaf8190310d90058ec67fa926705ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1577982567806,
+            "changeTime": 1577982567806,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1577982567807,
+            "changeTime": 1577982567807,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1577982567808,
+            "changeTime": 1577982567808,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1577982567808,
+            "changeTime": 1577982567808,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1577982567809,
+            "changeTime": 1577982567809,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1577982567810,
+            "changeTime": 1577982567810,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1577982567810,
+            "changeTime": 1577982567810,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1577982567811,
+            "changeTime": 1577982567811,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1577982567812,
+            "changeTime": 1577982567812,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1577982567812,
+            "changeTime": 1577982567812,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1577982567813,
+            "changeTime": 1577982567813,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1577982567813,
+            "changeTime": 1577982567813,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1577982567814,
+            "changeTime": 1577982567814,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "size": 856,
+            "modifiedTime": 1577982567814,
+            "changeTime": 1577982567814,
+            "contentHash": "eedb8372d10911b502d6dd57f76df6612f48ebba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1577982567815,
+            "changeTime": 1577982567815,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1577982567815,
+            "changeTime": 1577982567815,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1611,
+            "modifiedTime": 1577982912839,
+            "changeTime": 1577982912839,
+            "contentHash": "603d702feeb8855ce96e4fe09783a0695c23298c"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1577982912840,
+            "changeTime": 1577982912840,
+            "contentHash": "dba6ce1e8a6dde9ae71a7707d1ca5004e6952844"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1577982912842,
+            "changeTime": 1577982912842,
+            "contentHash": "86f5cbbb9da5c787ca3746bca58c87e33525bc16"
         }
     ]
 ]
