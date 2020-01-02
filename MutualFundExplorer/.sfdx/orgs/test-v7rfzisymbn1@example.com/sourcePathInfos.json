@@ -1,0 +1,253 @@
+[
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1577986492179,
+            "changeTime": 1577986492179,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1577986492179,
+            "changeTime": 1577986492179,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1577986492242,
+            "changeTime": 1577986492242,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492179,
+            "changeTime": 1577986492179,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1577986500459,
+            "changeTime": 1577986500459,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1577987002005,
+            "changeTime": 1577987002005,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492180,
+            "changeTime": 1577986492180,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1577986492181,
+            "changeTime": 1577986492181,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1577986499537,
+            "changeTime": 1577986499537,
+            "contentHash": "52156b344e5a30b00b2345dcb5e4febdd0f15a3b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/abdullahalamoudi/Documents/Trailheads/SFDXAppTrail/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1577987002006,
+            "changeTime": 1577987002006,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+        }
+    ]
+]
